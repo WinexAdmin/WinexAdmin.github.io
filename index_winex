@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WINEX 공지</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #d32f2f;
+            text-align: center;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .email {
+            color: #d32f2f;
+            font-weight: bold;
+        }
+        .footer {
+            margin-top: 20px;
+            text-align: center;
+            font-size: 0.9em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>WINEX 공지</h1>
+        <p>안녕하세요, WINEX를 방문해 주셔서 감사합니다.</p>
+        <p>문의사항이 있으시면 아래 이메일로 연락해 주시기 바랍니다:</p>
+        <p class="email">contact@winex.com</p>
+        <p>Redeem 신청을 원하시는 경우, <span class="email">redeem@winex.com</span> 으로 문의해 주세요.</p>
+        <div class="footer">
+            &copy; 2025 WINEX. 모든 권리 보유.
+        </div>
+    </div>
+</body>
+</html>
